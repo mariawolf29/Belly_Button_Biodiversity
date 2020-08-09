@@ -1,5 +1,9 @@
 # Belly_Button_Biodiversity
 
+## Technologies used:
+JavaScript
+Plotly
+
 # The goals of this challenge
 
 ## Create a bar chart of the top ten bacterial species in a volunteer’s navel. Use JavaScript to select only the most populous species.
@@ -17,3 +21,6 @@ When an individual’s ID is selected, the top 10 bacterial species (OTUs) shoul
 
 ## Complete the demographic information panel.
 Display all the key-value pairs of the selected individual’s demographic data. 
+
+![screenshot](Dashboard.png)
+![screenshot](BubbleChart.png)
