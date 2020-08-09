@@ -1,9 +1,0 @@
-//const url = "https://api.spacexdata.com/v2/launchpads";
-//const url = "samples.json";
-
-//d3.json(url).then(data => console.log(data));
-d3.json("samples.json").then(function(data){
-    firstPerson = data.metadata[0];
-    Object.entries(firstPerson).forEach(([key, value]) =>
-      {console.log(key + ': ' + value);});
-});
