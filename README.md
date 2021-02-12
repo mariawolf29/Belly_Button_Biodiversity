@@ -1,11 +1,11 @@
 # Belly Button Biodiversity
 
 ## Technologies used:
-JavaScript
-Plotly
-HTML/CSS
-Bootstrap
-JSON
+- JavaScript
+- Plotly
+- HTML/CSS
+- Bootstrap
+- JSON
 
 # Goals
 
