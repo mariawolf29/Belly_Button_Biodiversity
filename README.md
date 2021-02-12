@@ -3,8 +3,11 @@
 ## Technologies used:
 JavaScript
 Plotly
+HTML/CSS
+Bootstrap
+JSON
 
-# The goals of this challenge
+# Goals
 
 ## Create a bar chart of the top ten bacterial species in a volunteer’s navel. Use JavaScript to select only the most populous species.
 When an individual’s ID is selected, the top 10 bacterial species (OTUs) should be visualized with a bar chart. Create a horizontal bar chart to display the top 10 OTUs found in that individual.
